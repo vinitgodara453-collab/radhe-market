@@ -1,0 +1,14 @@
+{
+  "name": "virtual-number-sms-bot",
+  "version": "1.0.0",
+  "description": "Telegram Virtual Number & SMS OTP Bot with UPI Recharge and Admin Panel",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  }
+}

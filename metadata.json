@@ -1,0 +1,6 @@
+{
+  "name": "RDX MARKET - Digital Social Marketplace",
+  "description": "Premium digital marketplace inspired by reference catalog flow. High-grade social media accounts with instant automated delivery, INR & USDT TON payments, and escrow guarantee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
